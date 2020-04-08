@@ -7,4 +7,7 @@ This is a repository dedicated to the 100 days of code.
 <a href="https://twitter.com/tavaresfellipe1/status/1246630494621634561" target="_blank">Day 2</a>
 <br>
 <a href="https://twitter.com/tavaresfellipe1/status/1246990036832260096" target="_blank">Day 3</a>
-
+<br>
+<a href="https://twitter.com/tavaresfellipe1/status/1247351076929581056" target="_blank">Day 4</a>
+<br>
+<a href="https://twitter.com/tavaresfellipe1/status/1247717969834147841" target="_blank">Day 5</a>
