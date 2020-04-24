@@ -34,4 +34,6 @@ This is a repository dedicated to the 100 days of code.
 <br>
 <a href="https://twitter.com/tavaresfellipe1/status/1252419989220421633" target="_blank">Day 16</a>
 <br>
-<a href="https://twitter.com/tavaresfellipe1/status/1253153728200351746" target="_blank">Day 16</a>
+<a href="https://twitter.com/tavaresfellipe1/status/1253153728200351746" target="_blank">Day 17</a>
+<br>
+<a href="https://twitter.com/tavaresfellipe1/status/1253515879393959937" target="_blank">Day 18</a>
